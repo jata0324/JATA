@@ -1,0 +1,7 @@
+kvm_trace_entryexit	arch/x86/kvm/kvm	%u %p %u %u %u %u %u %u
+kvm_trace_handler	arch/x86/kvm/kvm	%u %p %u %u %u %u %u %u
+kvm_trace_entryexit	arch/x86/kvm/kvm-intel	%u %p %u %u %u %u %u %u
+kvm_trace_handler	arch/x86/kvm/kvm-intel	%u %p %u %u %u %u %u %u
+kvm_trace_entryexit	arch/x86/kvm/kvm-amd	%u %p %u %u %u %u %u %u
+kvm_trace_handler	arch/x86/kvm/kvm-amd	%u %p %u %u %u %u %u %u
+core_marker_format	vmlinux	name %s format %s

@@ -1,0 +1,1 @@
+#define UTS_RELEASE "2.6.31.5-127.fc12.i686.PAE"
